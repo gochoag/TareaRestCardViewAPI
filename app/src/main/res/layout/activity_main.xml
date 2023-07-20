@@ -11,9 +11,10 @@
         android:layout_width="0dp"
         android:layout_height="45dp"
         android:background="#00BCD4"
-
+        android:textColor="@color/black"
         android:gravity="center"
-        android:text="CELULARES"
+        android:textSize="20dp"
+        android:text="PRODUCTOS"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />

@@ -28,6 +28,7 @@
                 android:layout_marginLeft="5dp"
                 android:layout_toRightOf="@id/imgCell"
                 android:text="Titulo"
+                android:textStyle="bold"
                 android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
                 android:textColor="#000000" />
 
